@@ -107,6 +107,7 @@ ul{
 
 .subscription{
     padding-top: 80px;
+    padding-bottom: 80px;
 }
  
 
@@ -136,7 +137,6 @@ ul{
 }
 .subscription-price{
     padding-left: 60px;
-    padding-bottom: 80px;
 }
 
 
@@ -175,7 +175,7 @@ ul{
     font-weight: 600;
     font-size: 48px;
     color: #779611;
-    padding-bottom: 50px;
+    padding-bottom: 35px;
     max-width: 580px;
     
 }
